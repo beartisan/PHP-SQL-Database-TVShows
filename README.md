@@ -3,7 +3,7 @@
 Using SQL to hold the database for all TV Shows data. Used vanilla PHP to connect these data and also make the if-else statements, and while loops. Used CSS to style the website.
 
 
-Check it at this [link](http://beartisan.infinityfreeapp.com/Assignment1/cartoon.php)
+Visit the website at this [link](http://beartisan.infinityfreeapp.com/Assignment1/cartoon.php)
 
 
 ### Snippet of the Website:
